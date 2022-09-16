@@ -97,9 +97,10 @@ nav.dark .toggler--slider {
 main {
     padding: 57px 27px;
     background-image: url("react-icon-light.png"); 
-    color: white;
+    color:#2B283A;
     background-repeat: no-repeat;
     background-position: right 75%;
+    background-color: white;
     
 }
 main.dark{
