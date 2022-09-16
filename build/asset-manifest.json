@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/static/js/main.adb1008d.js",
+    "index.html": "/index.html",
+    "main.adb1008d.js.map": "/static/js/main.adb1008d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.adb1008d.js"
+  ]
+}
